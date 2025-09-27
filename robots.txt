@@ -1,0 +1,6 @@
+# robots.txt for https://konecwindows10.com
+User-agent: *
+Allow: /
+
+Sitemap: https://konecwindows10.com/sitemap.xml
+Host: konecwindows10.com
